@@ -1,4 +1,4 @@
-[![Bower version](https://badge.fury.io/bo/angular-device.svg)](http://badge.fury.io/bo/angular-device) [![Build Status](https://travis-ci.org/sullinger/angular-device.svg?branch=master)](https://travis-ci.org/sullinger/angular-device) [![Coverage Status](https://coveralls.io/repos/sullinger/angular-device/badge.svg?branch=master)](https://coveralls.io/r/sullinger/angular-device?branch=master)
+[![Bower version](https://badge.fury.io/bo/angular-device.svg)](http://badge.fury.io/bo/angular-device) [![Build Status](https://travis-ci.org/sullinger/angular-device.svg?branch=master)](https://travis-ci.org/sullinger/angular-device) [![Coverage Status](https://coveralls.io/repos/sullinger/angular-device/badge.svg?branch=master)](https://coveralls.io/r/sullinger/angular-device?branch=master)  
 [![Hire SliceMeNice](https://img.shields.io/badge/Need%20Support%3F-Hire%20SliceMeNice-red.svg)](http://www.slicemenice.de)
 # angular-device
 
